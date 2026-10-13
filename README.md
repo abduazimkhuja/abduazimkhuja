@@ -1,5 +1,5 @@
 <!-- <div align="right">
-<a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "350"/></a>
+<a href = "https://www.codewars.com/users/abduazimkhuja"><img src="https://www.codewars.com/users/abduazimkhuja/badges/large" width = "350"/></a>
 </div>
 &nbsp; -->
 
@@ -46,19 +46,19 @@
 
 <br/>
 
-<div><img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "63%"/>
-<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham" width = "33%"/>
+<div><img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduazimkhuja&theme=gotham" width = "63%"/>
+<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhuja&layout=compact&theme=gotham" width = "33%"/>
 </div>
 
 <br>
 <br>
 
 <div>
-   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
-   <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "47%"/>
+   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhuja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
+   <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhuja&show_icons=true&theme=gotham" width = "47%"/>
 </div>
 
-<!-- [![abduazimkhoja's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abduazimkhoja&theme=dark)](https://github.com/abduazimkhoja/leetcode-stats) -->
+<!-- [![abduazimkhuja's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abduazimkhuja&theme=dark)](https://github.com/abduazimkhuja/leetcode-stats) -->
 
 <br/>
 
